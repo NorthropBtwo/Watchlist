@@ -7,5 +7,5 @@ It shows you the movies which are recommended by your friends.
 
 Just download the [installer](https://github.com/NorthropBtwo/Watchlist/raw/master/WatchListUpdater.exe) from github.
 
-Do not download the hole repository.  
+Do not download the whole repository.  
 The installer takes care of that.
